@@ -1,6 +1,5 @@
 # 🚗 Automatic Car Parking System
-
-![Banner](images/banner.png)
+<img width="225" height="225" alt="download" src="https://github.com/user-attachments/assets/1ab07486-e84a-44d3-848a-11f012df92b7" />
 
 ---
 
